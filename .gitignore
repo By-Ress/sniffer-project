@@ -1,0 +1,18 @@
+# Build files
+build/
+*.o
+*.so
+*.dylib
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.pcap
+*.txt
+
+# OS junk
+.DS_Store
